@@ -8,6 +8,9 @@ Hello, my name is Raymond Cheng, I am currently a student in USF pursuing my BS 
 <br>
 
 ## School Projects
+
+[Steganography](https://raymondc1.github.io/Steganography/)
+
 _work in progress_
 
 <br>
