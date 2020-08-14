@@ -14,7 +14,7 @@ Hello, my name is Raymond Cheng, I am currently a student in USF pursuing my BS 
 
 [Object Oriented](https://raymondc1.github.io/Object-Oriented-Programing-Final-Project/)
 
-_work in progress_
+_More Coming!_
 
 <br>
 
@@ -22,6 +22,6 @@ _work in progress_
 
 [This Website!](https://raymondc1.github.io/raymondc1-github-page/)
 
-_work in progress_
+_More Coming!_
 
 <br>
